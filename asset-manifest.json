@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.776f59c6.chunk.css",
+    "main.js": "/my-app/static/js/main.61faf4b7.chunk.js",
+    "main.js.map": "/my-app/static/js/main.61faf4b7.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.aca536a0.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.aca536a0.js.map",
+    "static/css/2.f8913857.chunk.css": "/my-app/static/css/2.f8913857.chunk.css",
+    "static/js/2.589af84f.chunk.js": "/my-app/static/js/2.589af84f.chunk.js",
+    "static/js/2.589af84f.chunk.js.map": "/my-app/static/js/2.589af84f.chunk.js.map",
+    "static/js/3.95f8368e.chunk.js": "/my-app/static/js/3.95f8368e.chunk.js",
+    "static/js/3.95f8368e.chunk.js.map": "/my-app/static/js/3.95f8368e.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/2.f8913857.chunk.css.map": "/my-app/static/css/2.f8913857.chunk.css.map",
+    "static/css/main.776f59c6.chunk.css.map": "/my-app/static/css/main.776f59c6.chunk.css.map",
+    "static/js/2.589af84f.chunk.js.LICENSE.txt": "/my-app/static/js/2.589af84f.chunk.js.LICENSE.txt",
+    "static/media/about-us.7cee1185.png": "/my-app/static/media/about-us.7cee1185.png",
+    "static/media/branding.ed14af01.png": "/my-app/static/media/branding.ed14af01.png",
+    "static/media/graphics-design.08c25c6b.png": "/my-app/static/media/graphics-design.08c25c6b.png",
+    "static/media/hero-img1.12a6ce0c.png": "/my-app/static/media/hero-img1.12a6ce0c.png",
+    "static/media/kids-learning.fcd258b6.png": "/my-app/static/media/kids-learning.fcd258b6.png",
+    "static/media/remixicon.css": "/my-app/static/media/remixicon.f2616f59.ttf",
+    "static/media/seo.b323da63.png": "/my-app/static/media/seo.b323da63.png",
+    "static/media/slick-theme.css": "/my-app/static/media/slick.c94f7671.ttf",
+    "static/media/ui-ux.0366b465.png": "/my-app/static/media/ui-ux.0366b465.png",
+    "static/media/web-design.9071c3ef.png": "/my-app/static/media/web-design.9071c3ef.png",
+    "static/media/web-development.91ce5338.png": "/my-app/static/media/web-development.91ce5338.png",
+    "static/media/why-choose-us.5ec7e3b2.png": "/my-app/static/media/why-choose-us.5ec7e3b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aca536a0.js",
+    "static/css/2.f8913857.chunk.css",
+    "static/js/2.589af84f.chunk.js",
+    "static/css/main.776f59c6.chunk.css",
+    "static/js/main.61faf4b7.chunk.js"
+  ]
+}
