@@ -1,0 +1,12 @@
+.testimonial__content h2{
+    font-weight: 600;
+}
+
+.testimonial__img img{
+    margin-right: 25px;
+    border-radius: 5px;
+}
+
+.testimonial__img {
+    margin-right: 25px;
+}
